@@ -1,0 +1,13 @@
+c:\users\anton_shkliarov\documents\visual studio 2015\Projects\aqa-sharp-test-project\aqa-sharp-test-project\obj\Debug\aqa-sharp-test-project.csprojResolveAssemblyReference.cache
+c:\users\anton_shkliarov\documents\visual studio 2015\Projects\aqa-sharp-test-project\aqa-sharp-test-project\bin\Debug\aqa-sharp-test-project.dll.config
+c:\users\anton_shkliarov\documents\visual studio 2015\Projects\aqa-sharp-test-project\aqa-sharp-test-project\bin\Debug\aqa-sharp-test-project.dll
+c:\users\anton_shkliarov\documents\visual studio 2015\Projects\aqa-sharp-test-project\aqa-sharp-test-project\bin\Debug\aqa-sharp-test-project.pdb
+c:\users\anton_shkliarov\documents\visual studio 2015\Projects\aqa-sharp-test-project\aqa-sharp-test-project\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\anton_shkliarov\documents\visual studio 2015\Projects\aqa-sharp-test-project\aqa-sharp-test-project\bin\Debug\nunit.framework.dll
+c:\users\anton_shkliarov\documents\visual studio 2015\Projects\aqa-sharp-test-project\aqa-sharp-test-project\bin\Debug\WebDriver.dll
+c:\users\anton_shkliarov\documents\visual studio 2015\Projects\aqa-sharp-test-project\aqa-sharp-test-project\bin\Debug\WebDriver.Support.dll
+c:\users\anton_shkliarov\documents\visual studio 2015\Projects\aqa-sharp-test-project\aqa-sharp-test-project\bin\Debug\nunit.framework.xml
+c:\users\anton_shkliarov\documents\visual studio 2015\Projects\aqa-sharp-test-project\aqa-sharp-test-project\bin\Debug\WebDriver.xml
+c:\users\anton_shkliarov\documents\visual studio 2015\Projects\aqa-sharp-test-project\aqa-sharp-test-project\bin\Debug\WebDriver.Support.xml
+c:\users\anton_shkliarov\documents\visual studio 2015\Projects\aqa-sharp-test-project\aqa-sharp-test-project\obj\Debug\aqa-sharp-test-project.dll
+c:\users\anton_shkliarov\documents\visual studio 2015\Projects\aqa-sharp-test-project\aqa-sharp-test-project\obj\Debug\aqa-sharp-test-project.pdb
